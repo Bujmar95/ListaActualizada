@@ -1,0 +1,181 @@
+#EXTM3U
+#
+#
+#TDT ESPAÑA
+#
+#
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TVE" group-title="TDT",LA 1 HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93170
+#EXTINF:-1 tvg-id="La 2 HD" tvg-name="LA 2 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/LA2" group-title="TDT",LA 2 HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93173
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/A3" group-title="TDT",ANTENA 3 HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/184129
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/C4" group-title="TDT",CUATRO HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/184130
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="TELECINCO HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/T5" group-title="TDT",TELECINCO HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/184131
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="LA SEXTA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/SEXTA" group-title="TDT",LA SEXTA HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/184132
+#EXTINF:-1 tvg-id="TELEDEPORTE HD" tvg-name="TELEDEPORTE HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TDEP" group-title="TDT",TELEDEPORTE HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93128
+#EXTINF:-1 tvg-id="FDF" tvg-name="FDF" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/FDFIC" group-title="TDT",FDF
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93237
+#EXTINF:-1 tvg-id="GOL TV HD" tvg-name="GOL TV HD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="TDT",GOL TV HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93377
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="BE MAD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/BEMAD" group-title="TDT",BE MAD HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/184154
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/DCRMAX.png" group-title="TDT",DMAX HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93280
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="ENERGY" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ENERGY" group-title="TDT",ENERGY
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93242
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="24H" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/24H" group-title="TDT",24H
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/109894
+#
+#
+#M. LALIGA
+#
+#
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="M. LALIGA",M. LALIGA HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/109741
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="M. LALIGA",M. LALIGA SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93385
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HD" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="M. LALIGA",LALIGA TV HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/109896
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV SD" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="M. LALIGA",LALIGA TV SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93328
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="M. LALIGA",M. LALIGA 1 HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93334
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="M. LALIGA",M. LALIGA 1 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93333
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="M. LALIGA",M. LALIGA 2 HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93336
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="M. LALIGA",M. LALIGA 2 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93335
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="M. LALIGA",M. LALIGA 3 HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93387
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="M. LALIGA",M. LALIGA 3 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93337
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 4 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG4.png" group-title="M. LALIGA",M. LALIGA 4 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93338
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 5 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG5.png" group-title="M. LALIGA",M. LALIGA 5 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93339
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 6 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG6.png" group-title="M. LALIGA",M. LALIGA 6 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93340
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 7 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG7.png" group-title="M. LALIGA",M. LALIGA 7 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93341
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 8 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG8.png" group-title="M. LALIGA",M. LALIGA 8 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93342
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 9 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG9.png" group-title="M. LALIGA",M. LALIGA 9 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93388
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 10 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG10.png" group-title="M. LALIGA",M. LALIGA 10 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93386
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV 1 SD" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="M. LALIGA",LALIGA TV 1 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93330
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV 3 SD" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="M. LALIGA",LALIGA TV 3 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93331
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV 4 SD" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="M. LALIGA",LALIGA TV 4 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93384
+#
+#
+#M. LIGA DE CAMPEONES
+#
+#
+#EXTINF:-1 tvg-id="" tvg-name="L. CAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="M. LIGA DE CAMPEONES",L. CAMPEONES HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/135067
+#EXTINF:-1 tvg-id="" tvg-name="L. CAMPEONES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="M. LIGA DE CAMPEONES",L. CAMPEONES SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/107322
+#EXTINF:-1 tvg-id="" tvg-name="L. CAMPEONES 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="M. LIGA DE CAMPEONES",L. CAMPEONES 1 HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93347
+#EXTINF:-1 tvg-id="" tvg-name="L. CAMPEONES 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="M. LIGA DE CAMPEONES",L. CAMPEONES 1 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93346
+#EXTINF:-1 tvg-id="" tvg-name="L. CAMPEONES 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="M. LIGA DE CAMPEONES",L. CAMPEONES 2 HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93349
+#EXTINF:-1 tvg-id="" tvg-name="L. CAMPEONES 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="M. LIGA DE CAMPEONES",L. CAMPEONES 2 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93348
+#EXTINF:-1 tvg-id="" tvg-name="L. CAMPEONES 3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="M. LIGA DE CAMPEONES",L. CAMPEONES 3 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93350
+#EXTINF:-1 tvg-id="" tvg-name="L. CAMPEONES 4 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="M. LIGA DE CAMPEONES",L. CAMPEONES 4 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93351
+#EXTINF:-1 tvg-id="" tvg-name="L. CAMPEONES 5 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" group-title="M. LIGA DE CAMPEONES",L. CAMPEONES 5 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93352
+#EXTINF:-1 tvg-id="" tvg-name="L. CAMPEONES 6 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" group-title="M. LIGA DE CAMPEONES",L. CAMPEONES 6 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93353
+#EXTINF:-1 tvg-id="" tvg-name="L. CAMPEONES 7 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" group-title="M. LIGA DE CAMPEONES",L. CAMPEONES 7 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93354
+#EXTINF:-1 tvg-id="" tvg-name="L. CAMPEONES 8 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png" group-title="M. LIGA DE CAMPEONES",L. CAMPEONES 8 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93355
+#
+#
+#M. DEPORTE
+#
+#
+#EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-name="EUROSPORT 1 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" group-title="M. DEPORTES",EUROSPORT 1 HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/184164
+#EXTINF:-1 tvg-id="EUROSPORT1" tvg-name="EUROSPORT 1 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" group-title="M. DEPORTES",EUROSPORT 1 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93367
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" group-title="M. DEPORTES",EUROSPORT 2 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93370
+#EXTINF:-1 tvg-id="" tvg-name="M. FORMULA 1 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MVF1" group-title="M. DEPORTES",M. FORMULA 1 HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93139
+#EXTINF:-1 tvg-id="" tvg-name="M. FORMULA 1 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MVF1" group-title="M. DEPORTES",M. FORMULA 1 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93371
+#EXTINF:-1 tvg-id="" tvg-name="M. DEP. HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPDEP" group-title="M. DEPORTES",M. DEP. HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93142
+#EXTINF:-1 tvg-id="" tvg-name="M. DEP. SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPDEP" group-title="M. DEPORTES",M. DEP. SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/109732
+#EXTINF:-1 tvg-id="" tvg-name="M. DEP. 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/ARTHUR.png" group-title="M. DEPORTES",M. DEP. 1 HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93359
+#EXTINF:-1 tvg-id="" tvg-name="M. DEP. 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/ARTHUR.png" group-title="M. DEPORTES",M. DEP. 1 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93360
+#EXTINF:-1 tvg-id="" tvg-name="M. DEP. 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/USOP2.png" group-title="M. DEPORTES",M. DEP. 2 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93361
+#EXTINF:-1 tvg-id="" tvg-name="M. DEP. 3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/USOP3.png" group-title="M. DEPORTES",M. DEP. 3 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93362
+#EXTINF:-1 tvg-id="" tvg-name="M. DEP. 4 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPDEP" group-title="M. DEPORTES",M. DEP. 4 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93363
+#EXTINF:-1 tvg-id="" tvg-name="M. DEP. 5 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPDEP" group-title="M. DEPORTES",M. DEP. 5 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93364
+#EXTINF:-1 tvg-id="" tvg-name="M. DEP. 6 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPDEP" group-title="M. DEPORTES",M. DEP. 6 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93365
+#EXTINF:-1 tvg-id="" tvg-name="M. DEP. 7 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPDEP" group-title="M. DEPORTES",M. DEP. 7 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93382
+#EXTINF:-1 tvg-id="" tvg-name="M. DEP. 8 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPDEP" group-title="M. DEPORTES",M. DEP. 8 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93383
+#
+#
+#ENTRETENIMIENTO
+#
+#
+#EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV3" group-title="ENTRETENIMIENTO",#0 HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93146
+#EXTINF:-1 tvg-id="" tvg-name="#0 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV3" group-title="ENTRETENIMIENTO",#0 SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93183
+#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="#VAMOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ENTRETENIMIENTO",#VAMOS HD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93327
+#EXTINF:-1 tvg-id="#VAMOS SD" tvg-name="#VAMOS SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ENTRETENIMIENTO",#VAMOS SD
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/93326
+#
+#
+#DAZN
+#
+#
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://www.lavanguardia.com/television/programacion-tv/images/channels/63.png" group-title="DAZN",DAZN 1
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/145153
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://www.lavanguardia.com/television/programacion-tv/images/channels/63.png" group-title="DAZN",DAZN 2
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/145154
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="https://www.lavanguardia.com/television/programacion-tv/images/channels/63.png" group-title="DAZN",DAZN 3
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/145155
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="https://www.lavanguardia.com/television/programacion-tv/images/channels/63.png" group-title="DAZN",DAZN 4
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/145156
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5" tvg-logo="https://www.lavanguardia.com/television/programacion-tv/images/channels/63.png" group-title="DAZN",DAZN 5
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/145157
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6" tvg-logo="https://www.lavanguardia.com/television/programacion-tv/images/channels/63.png" group-title="DAZN",DAZN 6
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/145158
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 8" tvg-logo="https://www.lavanguardia.com/television/programacion-tv/images/channels/63.png" group-title="DAZN",DAZN 8
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/145160
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 9" tvg-logo="https://www.lavanguardia.com/television/programacion-tv/images/channels/63.png" group-title="DAZN",DAZN 9
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/145161
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 10" tvg-logo="https://www.lavanguardia.com/television/programacion-tv/images/channels/63.png" group-title="DAZN",DAZN 10
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/145162
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 11" tvg-logo="https://www.lavanguardia.com/television/programacion-tv/images/channels/63.png" group-title="DAZN",DAZN 11
+http://listamy.com:8080/mike3lineas_1anual/PH4vKSZxbn/145163
